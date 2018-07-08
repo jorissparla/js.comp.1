@@ -1,0 +1,15 @@
+{
+  "name": "js.comp.1",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jorissparla/js.comp.1"
+  },
+  "author": "Joris Sparla (joris.sparla@gmail.com)",
+  "license": "MIT"
+}
